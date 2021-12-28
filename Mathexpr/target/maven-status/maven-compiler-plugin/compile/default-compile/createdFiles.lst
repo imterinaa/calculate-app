@@ -1,0 +1,8 @@
+calculation/TypeofOperation.class
+calculation/Value.class
+calculation/CreateParametr.class
+calculation/V_s_param.class
+calculation/Param.class
+Exceptions/CharUndef.class
+calculation/ICalc.class
+Exceptions/ZeroDivException.class
